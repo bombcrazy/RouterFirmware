@@ -24,12 +24,15 @@
   
   hanwckf fork 华硕(ASUS), 称为老毛子(padavan)
 
-## merlin 
-  [merlin](https://github.com/bombcrazy/merlin) fork [RMerl](https://github.com/RMerl/asuswrt-merlin.ng)
+## R0-merlin
+  [R0-merlin](https://github.com/bombcrazy/R1-merlin) fork [RMerl](https://github.com/RMerl/asuswrt-merlin)
+  
+  [RMerl](https://github.com/RMerl/asuswrt-merlin) fork 华硕(ASUS), 称为梅林(merlin), 已归档. legacy code base 遗留代码库
 
-  [RMerl 旧](https://github.com/RMerl/asuswrt-merlin) fork 华硕(ASUS), 称为梅林(merlin), 已归档. legacy code base 遗留代码库
+## R1-merlin
+  [R1-merlin](https://github.com/bombcrazy/R0-merlin) fork [RMerl](https://github.com/RMerl/asuswrt-merlin.ng)
 
-  [RMerl 新](https://github.com/RMerl/asuswrt-merlin.ng) fork 华硕(ASUS), 称为梅林(merlin). newer codebase 更新的代码库
+  [RMerl](https://github.com/RMerl/asuswrt-merlin.ng) fork 华硕(ASUS), 称为梅林(merlin). newer codebase 更新的代码库
 
 ## 其它
   koolshare fork RMerl(梅林)
