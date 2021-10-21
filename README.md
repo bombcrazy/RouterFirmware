@@ -30,3 +30,6 @@
   [RMerl 旧](https://github.com/RMerl/asuswrt-merlin) fork 华硕(ASUS), 称为梅林(merlin), 已归档. legacy code base 遗留代码库
 
   [RMerl 新](https://github.com/RMerl/asuswrt-merlin.ng) fork 华硕(ASUS), 称为梅林(merlin). newer codebase 更新的代码库
+
+## 其它
+  koolshare fork RMerl(梅林)
