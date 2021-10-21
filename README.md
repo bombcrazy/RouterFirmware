@@ -33,3 +33,5 @@
 
 ## 其它
   koolshare fork RMerl(梅林)
+
+  PandoraBox fork 华硕(ASUS), 称 潘多拉(PandoraBox 改名 PanguBox)
